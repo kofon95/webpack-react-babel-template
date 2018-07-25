@@ -71,4 +71,7 @@ typings/
 
 # Serverless directories
 .serverless
-    
+
+
+# "npm run build" creates "dist" folder
+/dist/
